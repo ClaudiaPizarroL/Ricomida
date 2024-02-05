@@ -1,0 +1,25 @@
+/*font-family: 'Cabin', sans-serif;
+font-family: 'Lobster', sans-serif;*/
+
+
+
+.navbar {
+    color: #ffffff;
+    background-color: #373A3C;
+}
+
+.nav-link {
+    color: #ffffff;
+    font-family: 'Cabin', sans-serif;
+}
+
+.nombre {
+    color: #ffffff;
+    font-family: 'Lobster', sans-serif;
+    font-size: 46pt;
+}
+
+footer {
+    background-color: #373A3C;
+    color: #ffffff;
+}
